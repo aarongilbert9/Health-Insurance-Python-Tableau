@@ -1,4 +1,4 @@
-# Health-Insurance
+# Health-Insurance Cost Contributors Analysis
 Leveraging customer information is paramount for most businesses. In the case of an insurance company, certain attributes of customers can be crucial in making business decisions on the appropriate charges for an indivdual's insurance cost.
  # Data Description:
 The data at hand contains medical costs of people characterized by certain attributes.
