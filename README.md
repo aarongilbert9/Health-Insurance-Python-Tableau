@@ -5,7 +5,7 @@ The data at hand contains medical costs of people characterized by certain attri
 # Objectives:
  1. Exploratory Data Analysis and Data Visualization
  2. Hypothesis Testing
-Hypotheses:
+# Hypotheses:
 - People who smoke tend to have a higher insurance than people who dont smoke.
 - Insurance is typically higher when an individual has more than one attribute associated with smoking.
 - People over the age of 40 have a higher insurance than people below 40 years old.
