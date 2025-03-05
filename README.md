@@ -18,5 +18,14 @@ Hypotheses:
 * smoker: Smoker / Non - smoker
 * region: The beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
 * charges: Individual medical costs billed by health insurance.
+# Key takeaways 
+- Smoking Impact on Charges: There is a significant difference in charges between smokers and non-smokers. Smokers tend to have higher insurance costs, which aligns with health risks associated with smoking.
 
-  Tabluea link: 
+- Age vs. Charges: Older individuals generally have higher insurance costs, indicating a correlation between age and healthcare expenses.
+
+- BMI and Charges: Higher BMI values seem to increase the insurance charges, suggesting a link between obesity and medical expenses.
+
+- Regional Distribution: The dataset does not show any extreme variations in insurance charges across different regions, suggesting that location does not significantly impact costs.
+
+ # Tabluea link: 
+
