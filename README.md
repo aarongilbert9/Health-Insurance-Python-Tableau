@@ -28,4 +28,4 @@ The data at hand contains medical costs of people characterized by certain attri
 - Regional Distribution: The dataset does not show any extreme variations in insurance charges across different regions, suggesting that location does not significantly impact costs.
 
  # Tabluea link:
- https://public.tableau.com/shared/JZCQ8NGS5?:display_count=n&:origin=viz_share_link
+
