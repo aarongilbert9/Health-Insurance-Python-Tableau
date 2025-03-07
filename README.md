@@ -18,7 +18,6 @@ Identify the attributes that contribute to the increase in health insurance cost
 * region: The beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
 * charges: Individual medical costs billed by health insurance.
 # Key takeaways 
-Key takeaways 
 - Age vs. Charges: Older individuals generally have higher insurance costs, indicating a correlation between age and healthcare expenses.
 
 - Smoking Impact on Charges: There is a significant difference in charges between smokers and non-smokers. Smokers tend to have higher insurance costs, which aligns with health risks associated with smoking.
@@ -28,4 +27,4 @@ Key takeaways
 - Regional Distribution: The dataset does not show any extreme variations in insurance charges across different regions, suggesting that location does not significantly impact costs.
 
  # Tabluea link:
-
+https://public.tableau.com/views/HealthInsuranceCostContributorsAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
