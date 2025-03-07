@@ -3,12 +3,12 @@ Leveraging customer information is paramount for most businesses. In the case of
  # Data Description:
 The data at hand contains medical costs of people characterized by certain attributes.
 # Objectives:
- 1. Exploratory Data Analysis and Data Visualization
- 2. Hypothesis Testing
+Identify the attributes that contribute to the increase in health insurance costs.
 # Hypotheses:
-- People who smoke tend to have a higher insurance than people who dont smoke.
-- Insurance is typically higher when an individual has more than one attribute associated with smoking.
 - People over the age of 40 have a higher insurance than people below 40 years old.
+- Insurance is typically higher when an individual has more than one dependent.
+- People who smoke tend to have a higher insurance than people who dont smoke.
+- Are individuals who are labled overweight and obese pay higher insurance than an indidvidual who is labeled normal weight according to the BMI standards.
 # Attribute Information:
 * age: Age of primary beneficiary
 * sex: Insurance contractor gender, female / male
