@@ -5,7 +5,6 @@ The data at hand contains medical costs of people characterized by certain attri
 # Objectives:
 Identify the attributes that contribute to the increase in health insurance costs.
 # Hypotheses:
-- People over the age of 40 have a higher insurance than people below 40 years old.
 - Insurance is typically higher when an individual has more than one dependent.
 - People who smoke tend to have a higher insurance than people who dont smoke.
 - Are individuals who are labled overweight and obese pay higher insurance than an indidvidual who is labeled normal weight according to the BMI standards.
