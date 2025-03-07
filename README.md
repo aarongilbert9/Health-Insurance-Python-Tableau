@@ -27,4 +27,4 @@ Identify the attributes that contribute to the increase in health insurance cost
 - Regional Distribution: The dataset does not show any extreme variations in insurance charges across different regions, suggesting that location does not significantly impact costs.
 
  # Tabluea link:
-https://public.tableau.com/views/HealthInsuranceCostContributorsAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[https://public.tableau.com/views/HealthInsuranceCostContributorsAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/HealthInsuranceCostContributorsAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
