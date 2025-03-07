@@ -7,7 +7,7 @@ Identify the attributes that contribute to the increase in health insurance cost
 # Hypotheses:
 - Insurance is typically higher when an individual has more than one dependent.
 - People who smoke tend to have a higher insurance than people who dont smoke.
-- Are individuals who are labled overweight and obese pay higher insurance than an indidvidual who is labeled normal weight according to the BMI standards.
+- Are individuals who are labeled overweight and obese pay higher insurance than an individual who is labeled normal weight according to the BMI standards.
 # Attribute Information:
 * age: Age of primary beneficiary
 * sex: Insurance contractor gender, female / male
